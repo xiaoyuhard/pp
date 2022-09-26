@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Envirments
+  m_EditorClassIdentifier: 
+  m_GroupName: Envirments
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4112b3097f7bf824e92465b0784502b4
+  m_SerializeEntries:
+  - m_GUID: 1dd26d4c122985b4fba6076ef39932af
+    m_Address: Envirments
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de0fe375fa73751448ce3ee02fda3a44
+    m_Address: Horse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe3d01d515acf654e88c87fbfa6b88a4
+    m_Address: Horse_JocKey
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72a3e11b7efb258449d27f47cd926e9d
+    m_Address: Horse_JocKey_Info
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4edf5af8463eed4683d888622090b30
+    m_Address: JiXieZhaXiang
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a96e56183d7d85746a86b9ce9fbba453
+    m_Address: JocKey Variant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c8f0368679f0e945a6eff005ed922a4
+    m_Address: JocKey
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54619c133ac83b64085d7f8b586b5e5a
+    m_Address: Billboard_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7253bb6d073f6ad4d8a25e707b40aff8
+    m_Address: Billboard_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 569cdee85e331084890b16a2224c7536
+    m_Address: GuangGaoPai
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f82ea8cc7a99c794cbf0c8bef0a10036
+    m_Address: GuangGaoPai_lan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d16eb76df68d62a4fafc399b72c0ad79
+    m_Address: GuangGaoPai_zi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67a14954269f486468df504a72d6a1ff
+    m_Address: Metal_InteriorWallSupportsPainted_2k_d5_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75e76c074e9dc56419159663ec0d0d4a
+    m_Address: skycross
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c686d5f3cc5830942b2476d4a0c6ac16
+    m_Address: TuoLaJi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 098af9d4ca24669488cec63041d08ae4
+    m_Address: JianZhu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56945675a445d944c845971da96a5a47
+    m_Address: SaiMaChang
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efaa3054c24fb0344b18bf6bb9bbfb96
+    m_Address: SaiMaMaZha
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 578155adf2aeb274db6b248dade5691f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3335a51447c0b954286ba7fe5916978c, type: 2}
+    - {fileID: 11400000, guid: 79a4ed88950d8224b9432ca76757247a, type: 2}

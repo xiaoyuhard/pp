@@ -1,0 +1,361 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Jacks
+  m_EditorClassIdentifier: 
+  m_GroupName: Jacks
+  m_Data:
+    m_SerializedData: []
+  m_GUID: adc3d408dddcf6f4897639b6c643e3fd
+  m_SerializeEntries:
+  - m_GUID: f4451dcb871f8ce47b593545a21dd925
+    m_Address: QiShou_Body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4733cdbdfce236949845cc1f1b3eb74e
+    m_Address: QiShou_HuJian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b56f9d8b8aada5d4f9aad4e74bfe11ee
+    m_Address: QiShou_HuZi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51e1d29d31887ea4b98eccb40c87d29f
+    m_Address: QiShou_KuZi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcf4ea772c4026147a11288733d0c42c
+    m_Address: QiShou_MaoZi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd123c9072594d34985da60b4d1c9d7e
+    m_Address: QiShou_Shangyi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82175fef708faf9499364660f82017bb
+    m_Address: QiShou_ShouTao
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1e22dad369866041883677b934cd6f4
+    m_Address: QiShou_XieXi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ffcc7a06498aef46ae400bfcf457edb
+    m_Address: QiShou_Body_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f4d7ab7a1ffbec42b1e6c24e70aba81
+    m_Address: QiShou_Body_DiffuseIllumination
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0325b7f55ee1710478f0f0a70a92abc0
+    m_Address: QiShou_HuJian_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4335129c6bb5bb94ca8ef7311a061377
+    m_Address: QiShou_HuJian_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76e82348dee679b429d18a1ce0e8d895
+    m_Address: QiShou_HuJian_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3042fd798205c114b8efd5323c660d5e
+    m_Address: QiShou_HuJian_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1997df60c2e1584096389d6edd0a69c
+    m_Address: QiShou_HuJian_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4dda4cb388e91f34cbc1d3479fbfefb3
+    m_Address: QiShou_HuJian_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85b6577248647ea41838c8ce7acac074
+    m_Address: QiShou_HuJian_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 401375cbd57a4be47bb2b9ddfb2fd609
+    m_Address: QiShou_HuJian_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d03254c853b255408aa4f80ed85fe58
+    m_Address: QiShou_HuJian_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b5e40b5c7564464eb6c7d5edc6fdd31
+    m_Address: QiShou_HuJian_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57dbdb6b0ae4ca1458b8c72492275df9
+    m_Address: QiShou_HuJian_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41bab89b17205434d93645c46d29756f
+    m_Address: QiShou_HuJian_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42988f2bff9312b4aba8c3d1b11a0c2f
+    m_Address: QiShou_HuJian_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c608aacd8443edd4193da9fd6eb3fdc9
+    m_Address: QiShou_HuJian_14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae6c681f2191baa4ea81905cfc31b40f
+    m_Address: QiShou_HuJian_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e35522f5730ef6e4190322f5956c42ab
+    m_Address: QiShou_HuJian_16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a37a1efc02a7ae43b11d9d4dda8124c
+    m_Address: QiShou_HuJian_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 563eba483598e8d4e9f256f67da77dbb
+    m_Address: QiShou_HuZi_AlbedoTransparency
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c90aa240a6e18347baa0cc3a83efce2
+    m_Address: QiShou_HuZi_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd394f8984f1c2e41a2ec408d98486c7
+    m_Address: QiShou_KuZi_MetallicSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03d45a7c06029834ab98244d3260f9ab
+    m_Address: QiShou_KuZi_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6514f9e5c9f028d46957056baf145ec2
+    m_Address: QiShou_MaoZi_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce69cfa805c45774eb928097d8e8b98e
+    m_Address: QiShou_MaoZi_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e99b8a98b9fd5547aafcd507a13aa36
+    m_Address: QiShou_MaoZi_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b770ebb20694e9649ba47da04560bcdc
+    m_Address: QiShou_MaoZi_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 529ffc5963974714ead6e23ebd2c9d73
+    m_Address: QiShou_MaoZi_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0893d94c6a63dda4b9d61203389a6098
+    m_Address: QiShou_MaoZi_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2b46d3ac4832b046beb488a758c15f2
+    m_Address: QiShou_MaoZi_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2031adb8127e77459ca7a36f8c22493
+    m_Address: QiShou_MaoZi_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff1458c29089af84c85068c6f82bfe6a
+    m_Address: QiShou_MaoZi_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c29ff93af088a6841bed6b71fef51d06
+    m_Address: QiShou_MaoZi_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26c0ec13355368e42afc39df9e741279
+    m_Address: QiShou_MaoZi_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4b7eb2860fb8484b8268d019ffa572e
+    m_Address: QiShou_MaoZi_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3f912a5f583a8147b2e6d12b491d74b
+    m_Address: QiShou_MaoZi_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5aa872019fb1dc245b1c76333d364598
+    m_Address: QiShou_MaoZi_14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd7a5f0c7c9654049ab27e97fb1be86b
+    m_Address: QiShou_MaoZi_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ee8f740642882542b68ef9c37829053
+    m_Address: QiShou_MaoZi_16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77693c8369932e94fa42728233d9d295
+    m_Address: QiShou_MaoZi_DiffuseGlossiness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2eae695837f0ba340adbe11a5e8adbc4
+    m_Address: QiShou_MaoZi_DiffuseIllumination
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c3c0a16a34db21478ec458714ec3fec
+    m_Address: QiShou_MaoZi_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d840ea0d0b17de0438ea74631062961b
+    m_Address: QiShou_Shangyi_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27bda4ca0e70e2e4d973c910a35675c1
+    m_Address: QiShou_Shangyi_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 728359c6312f5114d835687a683cb114
+    m_Address: QiShou_Shangyi_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29b0fc179c2fec64490e5fc40ff6373c
+    m_Address: QiShou_Shangyi_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6784804473ef6ec4284428672fe90fef
+    m_Address: QiShou_Shangyi_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70bc251d931643e45bb958c626677add
+    m_Address: QiShou_Shangyi_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8f3ffbd980930f4b9eba7128e1d85fd
+    m_Address: QiShou_Shangyi_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8537b757801dd94b81caed5a63c7afd
+    m_Address: QiShou_Shangyi_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e055546fd4bef974a843821972fdea7a
+    m_Address: QiShou_Shangyi_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f6ef53aac2b8a3469781c0f0db057a7
+    m_Address: QiShou_Shangyi_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d213d5b672e7c2f4ba5d2a3fa66b9e6a
+    m_Address: QiShou_Shangyi_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9c3e9970c6ce734aa4774e100507996
+    m_Address: QiShou_Shangyi_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28db69af27752b947a38f9ef308a5c9b
+    m_Address: QiShou_Shangyi_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a98a095295c52c4c88f22f5398aabd9
+    m_Address: QiShou_Shangyi_14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c13d120fe8b3cc498ac7e375ac8301b
+    m_Address: QiShou_Shangyi_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0acc92bac2e1255479669f6967384194
+    m_Address: QiShou_Shangyi_16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bc094904bc777643bcc8461270468a8
+    m_Address: QiShou_ShouTao_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d189fd26cf787854e9a2754f0e0fc4a8
+    m_Address: QiShou_ShouTao_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0541d64c3a722494aa5ec8dd5f92fac3
+    m_Address: QiShou_ShouTao_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f676ff0a6ce88042bebfb604bab0922
+    m_Address: QiShou_ShouTao_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c0cf91073ee85346af289bdb82c0bb4
+    m_Address: QiShou_ShouTao_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab02617f166b8984584aa9e09231ee35
+    m_Address: QiShou_ShouTao_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6de54a14c791664297b4e23e76fb988
+    m_Address: QiShou_ShouTao_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 656954a2b88318a44bd011ef0a55287b
+    m_Address: QiShou_ShouTao_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e998a0e02d18b5c4cbc7a47988331649
+    m_Address: QiShou_ShouTao_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb4e13256843dc840b3495f679cb2823
+    m_Address: QiShou_ShouTao_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbf79d92d5c28b94fa84f34c62cb3ead
+    m_Address: QiShou_ShouTao_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18e809d15fa1bb7488e0efeb8110e5fb
+    m_Address: QiShou_ShouTao_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56c3fec645303d544a00df6d2c434587
+    m_Address: QiShou_ShouTao_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8937110216279a47b88297aa0969f76
+    m_Address: QiShou_ShouTao_14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e00507b580d48404a92af7c86519f95f
+    m_Address: QiShou_ShouTao_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d1aee22aa546c94a840a6ae9b0dfbbf
+    m_Address: QiShou_ShouTao_16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44ae5c39fd9f65d42be078576f9407c7
+    m_Address: QiShou_ShouTao_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b870785a73e179e49a006004bd5fb14c
+    m_Address: QiShou_Xiezi_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 578155adf2aeb274db6b248dade5691f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 718b38278ed70194ab3669325ff8edba, type: 2}
+    - {fileID: 11400000, guid: 9963281006fe3b044ba74fd08fe46c24, type: 2}

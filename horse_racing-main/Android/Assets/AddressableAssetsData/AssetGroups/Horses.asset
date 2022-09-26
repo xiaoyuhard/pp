@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Horses
+  m_EditorClassIdentifier: 
+  m_GroupName: Horses
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 51342e988ff2bd242866d564dc837454
+  m_SerializeEntries:
+  - m_GUID: c9beb1a53188ec045935a4ff482d3d9b
+    m_Address: MA_Body_Albedo 01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1396333431a78946b976151e4f601fd
+    m_Address: MA_Body_Albedo 02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8bdfba4fd99b1146bf54cbec38543a5
+    m_Address: MA_Body_Albedo 03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5328844d5db857d47ab513a648688d31
+    m_Address: MA_Body_Albedo 04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c16686048bf2c4c4ea3c2d240ae3880d
+    m_Address: MA_Body_Albedo 05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50316d58f75005046829465741e33f38
+    m_Address: MA_Body_Albedo 06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0af0f2e01f788384d9f9eb8d92c182ca
+    m_Address: MA_Body_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f58837bec77fdc47861e53a95c2c257
+    m_Address: MA_Body_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb46b6b2bf03523428dcc5b94cb81903
+    m_Address: MA_eye_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee32857afa8e6554eb73833e6318579c
+    m_Address: MA_eye_MetallicSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 320d5acdba3cf0e47aebb67e65faec6f
+    m_Address: MA_eye_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0c7f09864ae5944e83e3a5066276c06
+    m_Address: MA_Mao_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a154aa460c931a54eba5d7937af23a45
+    m_Address: MA_Mao_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90dbb29dabcee0847a3079e3be4765bd
+    m_Address: MA_PiDai_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87118b59054c0e34aa842ce4c31ece1c
+    m_Address: MA_WeiBa_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20757416e6031f140b29e12b7773336c
+    m_Address: MA_WeiBa_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c859720a169c20459b5cfbcbc82493c
+    m_Address: Ma_ZuoDian 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05fb7264b04e7794c98a469a3c7e651d
+    m_Address: Ma_ZuoDian 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03853e6c903704242896ed74ddc6a6c9
+    m_Address: Ma_ZuoDian 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59e699dee58466a4e8df2a935dbf733c
+    m_Address: Ma_ZuoDian 4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fb8911bf70dddd44afb4d7f76aa4b4d
+    m_Address: Ma_ZuoDian 5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d679519311781142828d87e3b260e0b
+    m_Address: Ma_ZuoDian 6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 744cfd9e5bf33f64ba1160a68c12c0f1
+    m_Address: Ma_ZuoDian 7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e38af6fb1bbf4b469dae4cf8085a176
+    m_Address: Ma_ZuoDian 8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e79965d0893b65e43a564e18462c76da
+    m_Address: Ma_ZuoDian 9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a8cc385864876d43b90592005a0f3a7
+    m_Address: Ma_ZuoDian 10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9f5749072fd014459608d712d8ea375
+    m_Address: Ma_ZuoDian 11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 206776f9da8f4564984a8525f051e1e4
+    m_Address: Ma_ZuoDian 12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8971369d942d9549872188558f5395f
+    m_Address: Ma_ZuoDian 13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cbf51027c01757542a1f9ba544903616
+    m_Address: Ma_ZuoDian 14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f148093d3bc01146a81f63002f85afe
+    m_Address: Ma_ZuoDian 15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f8961a2566f7284080b7701dbf5dbac
+    m_Address: Ma_ZuoDian 16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9eb17ca526d183438b3b1ff5013e6a2
+    m_Address: Ma_ZuoDian 17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00b6676085cf43643abc18bca0f1b56d
+    m_Address: Ma_ZuoDian 18
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1d01f00cdcb8be44adb1ae33048be78
+    m_Address: Ma_ZuoDian 19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8b42357ff808eb419bd4fd67cb46006
+    m_Address: Ma_ZuoDian 20
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65f1e0e23ad05d04c8885507013e231e
+    m_Address: Ma_ZuoDian 21
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e914abc27c4f53745bcd27757b1f3655
+    m_Address: Ma_ZuoDian 22
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f693b0381dc89704da4f296b7a29fdce
+    m_Address: Ma_ZuoDian 23
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 273687416ca30f94d91c71b263ba4b81
+    m_Address: Ma_ZuoDian 24
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d72b818f9357f0f4b986c1ac8a9f267b
+    m_Address: Ma_ZuoDian 25
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 735caabd3d7d2894889797c48f2edb07
+    m_Address: Ma_ZuoDian 26
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8eaa351f9893f2e45a61b6c79da0d31c
+    m_Address: Ma_ZuoDian 27
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c9512dff2c885d4ba43ef51ecac9520
+    m_Address: Ma_ZuoDian 28
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9becc7ef05a24f4e87da84b47b7afee
+    m_Address: Ma_ZuoDian 29
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9827a692eedc8ee49848011446a22d4e
+    m_Address: Ma_ZuoDian 30
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 002053ccfc1d48043b4c0376a5fedaa2
+    m_Address: Ma_ZuoDian 31
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66f0bb2152b3be447adc92e2709fff0d
+    m_Address: Ma_ZuoDian 32
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0672c4b6f6b8699489183525a7458189
+    m_Address: Ma_ZuoDian 33
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 144c6b4c2c2d48b4ebdeac6f9d8d6405
+    m_Address: Ma_ZuoDian 34
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f676b069f5ed7c440804b2e58c50edd9
+    m_Address: Ma_ZuoDian 35
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b798ff17bb2db6f458fd3ba955dec606
+    m_Address: Ma_ZuoDian 36
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcf15d94a4dd4ce4abf61891c677971e
+    m_Address: MA_ZuoDian_tex_MetallicSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2041b5d7281f984e901146372a59502
+    m_Address: MA_ZuoDian_tex_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d02369f356a11564a9e2f47f558b2ce7
+    m_Address: MA_BangDai
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e433217ff7c3f9347b9e1c2fc6f54040
+    m_Address: MA_Body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d0aa7300c36f894aafa5e8046a1baf2
+    m_Address: MA_eye
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8980d8aec57fedd4aabb227adf09e739
+    m_Address: MA_Mao
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8db1001081e926242bc79a19ca0e050a
+    m_Address: MA_PiDai
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29e2a4b652c9c7f42a1e7039070f3935
+    m_Address: MA_WeiBa
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53ae3209536da9d43890359639ec18f5
+    m_Address: MA_ZuoDian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 578155adf2aeb274db6b248dade5691f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8e258cdd9f873aa4e9e50c79f772094b, type: 2}
+    - {fileID: 11400000, guid: 158593650f69e5242ac3ee5b7c4cdbc1, type: 2}

@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 2280f00abb9cc184e898c1b384efb3ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 325297597719029338
+    second: RacingUI_13
+  - first:
+      213: -1013419196647249476
+    second: RacingUI_1
+  - first:
+      213: -10703813307518583
+    second: RacingUI_2
+  - first:
+      213: -9080975279344428235
+    second: RacingUI_3
+  - first:
+      213: -6476719444117840746
+    second: RacingUI_14
+  - first:
+      213: -5602140991601727478
+    second: RacingUI_15
+  - first:
+      213: 5312312272722070138
+    second: RacingUI_6
+  - first:
+      213: 83770370191283708
+    second: RacingUI_13
+  - first:
+      213: -1944488817971363816
+    second: RacingUI_1
+  - first:
+      213: 8636120434009364856
+    second: RacingUI_2
+  - first:
+      213: -738577374393380543
+    second: RacingUI_3
+  - first:
+      213: -5012747915195585786
+    second: RacingUI_14
+  - first:
+      213: -7823494472137350349
+    second: RacingUI_15
+  - first:
+      213: -1624224205677087085
+    second: RacingUI_6
+  - first:
+      213: 5026058128312130244
+    second: RacingUI_17
+  - first:
+      213: 8216982853867174260
+    second: RacingUI_18
+  - first:
+      213: 6948224667333270633
+    second: RacingUI_19
+  - first:
+      213: 5692577724627879750
+    second: RacingUI_20
+  - first:
+      213: 2221589008304125751
+    second: RacingUI_21
+  - first:
+      213: 2545359516863116881
+    second: RacingUI_22
+  - first:
+      213: 5162603629833066961
+    second: RacingUI_23
+  - first:
+      213: -1761651827029629015
+    second: RacingUI_17
+  - first:
+      213: -6642940590086478060
+    second: RacingUI_18
+  - first:
+      213: 2725706957390571819
+    second: RacingUI_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RacingUI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a45e0170b38400800000000000000
+      internalID: 325297597719029338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 920
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb967472c9c9fe1f0800000000000000
+      internalID: -1013419196647249476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 921
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981301240f8f9dff0800000000000000
+      internalID: -10703813307518583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 918
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5294b815e9f180800000000000000
+      internalID: -9080975279344428235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 916
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a0c8fbddf19b940800000000000000
+      internalID: 5312312272722070138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 921
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf554f535bc992100800000000000000
+      internalID: 83770370191283708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 403
+        width: 281
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810091fe8b9c305e0800000000000000
+      internalID: -1944488817971363816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 676
+        width: 281
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879de9257c9a9d770800000000000000
+      internalID: 8636120434009364856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 672
+        width: 281
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14154288acb00c5f0800000000000000
+      internalID: -738577374393380543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 567
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca528e0d3520c540800000000000000
+      internalID: 5026058128312130244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 567
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4797a32ce56980270800000000000000
+      internalID: 8216982853867174260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 565
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c910c858d0d6060800000000000000
+      internalID: 6948224667333270633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 918
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72bf73ffa5d87e0800000000000000
+      internalID: -1761651827029629015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 915
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172fd7aab88fc3a0800000000000000
+      internalID: -6642940590086478060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 919
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c9d7f0bf11e16a0800000000000000
+      internalID: -6476719444117840746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 918
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08ace513723142b0800000000000000
+      internalID: -5602140991601727478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 918
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29631d4908a3d520800000000000000
+      internalID: 2725706957390571819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 671
+        width: 281
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bef2e64542f6ab0800000000000000
+      internalID: -5012747915195585786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacingUI_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 471
+        width: 195
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333650e6a3d5d6390800000000000000
+      internalID: -7823494472137350349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce59e7169f74a4842987abb2f7cfdd7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
